@@ -1,5 +1,14 @@
 # Release Notes
 
+## 0.9.4
+
+-   Fix compatibility issues by @goodwanghan in https://github.com/fugue-project/fugue/pull/567
+-   Unpins pandas version by @nasaul in https://github.com/fugue-project/fugue/pull/566
+
+## 0.9.3
+
+-   Fix [vulnerability issue](https://github.com/fugue-project/fugue/security/advisories/GHSA-xv5p-fjw5-vrj6) by @goodwanghan in https://github.com/fugue-project/fugue/pull/565
+
 ## 0.9.2
 
 -   Add dict[str,Any] as supported input and output by @goodwanghan in https://github.com/fugue-project/fugue/pull/547
